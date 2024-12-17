@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/JamesDarf?pet-id=642700401811882560"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/JamesDarf"
+  width="600"
+  height="300"
+/>
 </a>
 
 ![ul github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesDarf&show_icons=true&theme=tokyonight)
