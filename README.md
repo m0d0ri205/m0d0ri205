@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -25,5 +24,7 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
+-->
+
 
 ![ul github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m0d0ri205&show_icons=true&theme=tokyonight)
