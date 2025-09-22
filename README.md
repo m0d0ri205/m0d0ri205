@@ -28,9 +28,14 @@ Studying **WEB Hacking, MCP, Secure Coding, SBOM**
 ---
 
 ## 🏆 Activity
-- JA Korea & 삼성 창업놀이터 다수 수상 (2021 ~ 2022)  
-- KISIA YISF 공로상 수상 (2024)
-- WhiteHat School 3기 (Vibe Hacking with MCP)  
+- JA KOREA-삼성 창업놀이터 페스티벌 우수상(비즈니스 모델 비칭 부문) - Moving Book (도서 자동 운반 시스템) (2021)
+- 전국 과학중점학교 소논문 성과 보고회 발표 (2021년) - 아두이노를 이용한 자동 손 소독제 최적화 연구 (2021)
+- 국민대학교 & JA Korea 온라인 창업 캠프 최우수(고등부) - Moving Book (2021)
+- JA KOREA-삼성 창업놀이터 페스티벌 우수상(비즈니스 모델 전시 부문) - illudo - PARKIMINATION (불법 주차 탐지 아이템) (2022)
+- 2023년 SW 아이디어 공모전 본선 (참여상) - Fastmedic(응급 처치 AI 진단 어플리케이션)
+- KISIA YISF(청소년 정보보호 페스티벌) 공로상 수상 (2024)
+- WhiteHat School 3기 (Vibe Hacking with MCP) 수료증 (2025)
+- KISIA YISF(청소년 정보보호 페스티벌) 공로상 수상 (2025)
 
 ---
 
@@ -52,10 +57,15 @@ Studying **WEB Hacking, MCP, Secure Coding, SBOM**
 ---
 
 ## 💻 Projects
+### WEB
+- [**OWASP Vulnerable Flask App playground**]([https://github.com/m0d0ri205/wargame-Mystic](https://github.com/m0d0ri205/OWASP-Vulnerable-Flask)) - OWASP Vulnerable Flask App Wargame 구현 and 
+Patch OWASP Vulnerable Flask App  
+
 ### wargame
 - [**Mystic**](https://github.com/m0d0ri205/wargame-Mystic) - Web (Dev tool, cookie)  
 - [**Affine-Cipher Wargame**](https://github.com/m0d0ri205/wargame-Affine-Cipher) - Crypto (Medium)  
 - [**XSS via Markdown**](https://github.com/m0d0ri205/wargame-XSS_via_Markdown) - CVE-2024-41662
+- etc....
 
 ### mcp
 - [**PentestGPT-MCP**](https://github.com/m0d0ri205/PentestGPT-MCP) - AI-driven Web Hacking with MCP
@@ -64,6 +74,8 @@ Studying **WEB Hacking, MCP, Secure Coding, SBOM**
 ### SBOM
 - [**Stellar-IaaSBOM**](https://github.com/Stellar-SBOM/Stellar-IaaSBOM) - IaC → SBOM 자동 생성기  
 - [**CycloneDX-SBOM-valided**](https://github.com/m0d0ri205/cyclonedx-sbom-validedTest) - SBOM 데이터 검증  
+
+
 
 ---
 
