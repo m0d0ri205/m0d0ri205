@@ -67,13 +67,15 @@ Patch OWASP Vulnerable Flask App
 - [**XSS via Markdown**](https://github.com/m0d0ri205/wargame-XSS_via_Markdown) - CVE-2024-41662
 - etc....
 
-### mcp
+### MCP
 - [**PentestGPT-MCP**](https://github.com/m0d0ri205/PentestGPT-MCP) - AI-driven Web Hacking with MCP
+- [**Alpa-MCP**](https://github.com/m0d0ri205/a-mcp) - 의존성 특화 웹 자동화 도구 개발 (sbom, Perplexity, kalimcp)
+
   
 
 ### SBOM
 - [**Stellar-IaaSBOM**](https://github.com/Stellar-SBOM/Stellar-IaaSBOM) - IaC → SBOM 자동 생성기  
-- [**CycloneDX-SBOM-valided**](https://github.com/m0d0ri205/cyclonedx-sbom-validedTest) - SBOM 데이터 검증  
+- [**CycloneDX-SBOM-valided**](https://github.com/m0d0ri205/cyclonedx-sbom-validedTest) - SBOM 데이터 검증
 
 
 
