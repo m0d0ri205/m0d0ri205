@@ -62,10 +62,12 @@ Studying **WEB Hacking, MCP, Secure Coding, SBOM**
 Patch OWASP Vulnerable Flask App  
 
 ### wargame
+/*
 - [**Mystic**](https://github.com/m0d0ri205/wargame-Mystic) - Web (Dev tool, cookie)  
 - [**Affine-Cipher Wargame**](https://github.com/m0d0ri205/wargame-Affine-Cipher) - Crypto (Medium)  
 - [**XSS via Markdown**](https://github.com/m0d0ri205/wargame-XSS_via_Markdown) - CVE-2024-41662
 - etc....
+*/
 
 ### MCP
 - [**PentestGPT-MCP**](https://github.com/m0d0ri205/PentestGPT-MCP) - AI-driven Web Hacking with MCP
@@ -83,9 +85,9 @@ Patch OWASP Vulnerable Flask App
 
 ## ⚡ Skills
 * Web Hacking  
-* Secure Coding  
 * MCP (Model Context Protocol)  
 * SBOM (Software Bill of Materials)  
+* DevSecOps
 
 ---
 
