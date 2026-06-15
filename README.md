@@ -1,94 +1,177 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=120\&section=header)
 
-# 👋 Hi, I'm m0d0ri205
+# 👋 Hi, I'm Lee Jeongmin (m0d0ri205)
 
-<p>  
-  <a href="https://velog.io/@m0d0ri205/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> 
-  <a href="https://qiita.com/m0d0ri205" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white"/></a>
-  <a href="https://github.com/m0d0ri205" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+### Offensive Security · AI Agent · Security Automation
+
+웹 취약점 분석과 공격 재현 경험을 기반으로 Offensive Security와 Security Automation 분야를 탐구하고 있습니다.
+
+CTF 문제 출제 및 운영, 웹 취약점 연구, MCP(Model Context Protocol) 기반 AI Agent 개발 프로젝트를 수행하며 취약점 식별부터 공격 재현, 자동화 도구 개발까지 경험했습니다.
+
+최근에는 AI Agent와 MCP를 활용하여 보안 진단 및 분석 업무를 자동화하는 연구와 개발에 집중하고 있습니다.
+
+---
+
+## 🌐 Links
+
+<p>
+  <a href="https://velog.io/@m0d0ri205/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
+
+  <a href="https://qiita.com/m0d0ri205">
+    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/m0d0ri205">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 😊 Introducing Myself
-Studying **WEB Hacking, MCP, Secure Coding, SBOM**  
+## ⚡ Interests
 
----
-
-## 🌍 Language
-- 🇰🇷 Korean : Native  
-- 🇯🇵 Japanese : JLPT N3 준비 중  
-- 🇺🇸 English : Simple conversation  
-
----
-
-## 📫 Contact
-- Gmail : **lcm000522@gmail.com**  
-
----
-
-## 🏆 Activity
-- JA KOREA-삼성 창업놀이터 페스티벌 우수상(비즈니스 모델 비칭 부문) - Moving Book (도서 자동 운반 시스템) (2021)
-- 전국 과학중점학교 소논문 성과 보고회 발표 (2021년) - 아두이노를 이용한 자동 손 소독제 최적화 연구 (2021)
-- 국민대학교 & JA Korea 온라인 창업 캠프 최우수(고등부) - Moving Book (2021)
-- JA KOREA-삼성 창업놀이터 페스티벌 우수상(비즈니스 모델 전시 부문) - illudo - PARKIMINATION (불법 주차 탐지 아이템) (2022)
-- 2023년 SW 아이디어 공모전 본선 (참여상) - Fastmedic(응급 처치 AI 진단 어플리케이션)
-- KISIA YISF(청소년 정보보호 페스티벌) 공로상 수상 (2024)
-- WhiteHat School 3기 (Vibe Hacking with MCP) 수료증 (2025)
-- KISIA YISF(청소년 정보보호 페스티벌) 공로상 수상 (2025)
-
----
-
-## 🎓 Education
-- 가림고등학교 졸업 (2020 ~ 2022)
-- JA Korea Alumni(2023 ~)
-- 순천향대학교 정보보호학과 (2023 ~)
-
-### SecurityFirst
-- SecurityFirst - YB ( 2023.03 ~ )
-- SecurityFirst - Web newbie ( 2023.07 ~ 2023.08 )
-- SecurityFirst - Web regular ( 2023.08 ~ 2023.12 )
-- SecurityFirst - Club Vice President ( 2023.12 ~ 2024.12)
-- SecurityFirst - club president ( 2024.12 ~ )
-
-### KITRI
-- WhiteHat School 3기 (Vibe Hacking with MCP) (2025.03 ~ 2025.09)
-
----
-
-## 💻 Projects
-### WEB
-- [**OWASP Vulnerable Flask App playground**]([https://github.com/m0d0ri205/wargame-Mystic](https://github.com/m0d0ri205/OWASP-Vulnerable-Flask)) - OWASP Vulnerable Flask App Wargame 구현 and 
-Patch OWASP Vulnerable Flask App  
-
-### My-Wargame
-- [**Mystic**](https://github.com/m0d0ri205/wargame-Mystic) - Web (Dev tool, cookie)  
-- [**Affine-Cipher Wargame**](https://github.com/m0d0ri205/wargame-Affine-Cipher) - Crypto (Medium)  
-- [**XSS via Markdown**](https://github.com/m0d0ri205/wargame-XSS_via_Markdown) - CVE-2024-41662
-- etc....
-
-### MCP
-- [**PentestGPT-MCP**](https://github.com/m0d0ri205/PentestGPT-MCP) - AI-driven Web Hacking with MCP
-- [**Alpa-MCP**](https://github.com/m0d0ri205/a-mcp) - 의존성 특화 웹 자동화 도구 개발 (sbom, Perplexity, kalimcp)
-
-  
-
-### SBOM
-- [**Stellar-IaaSBOM**](https://github.com/Stellar-SBOM/Stellar-IaaSBOM) - IaC → SBOM 자동 생성기  
-- [**CycloneDX-SBOM-valided**](https://github.com/m0d0ri205/cyclonedx-sbom-validedTest) - SBOM 데이터 검증
-
-
+* Offensive Security
+* Web Application Security
+* AI Agent for Security
+* MCP (Model Context Protocol)
+* Security Automation
+* DevSecOps
+* SBOM
 
 ---
 
 ## ⚡ Skills
-* Web Hacking  
-* MCP (Model Context Protocol)  
-* SBOM (Software Bill of Materials)  
-* DevSecOps
+
+### Security
+
+* Web Hacking
+* Pentesting
+* Vulnerability Research
+* CTF
+
+### AI & Automation
+
+* MCP (Model Context Protocol)
+* AI Agent
+* Security Automation
+
+### Development
+
+* Python
+* TypeScript
+* Docker
+* Git
+
+### Tools
+
+* Burp Suite
+* Kali Linux
+* Trivy
+* KICS
+
+---
+
+## 🎓 Education
+
+* Soonchunhyang University, Department of Information Security (2023 ~)
+* JA Korea Alumni (2023 ~)
+* WhiteHat School 3rd (2025)
+* SecurityFirst
+
+  * Vice President (2024)
+  * President (2025)
+
+---
+
+## 💻 Featured Projects
+
+### Pentest Agent for KR
+
+Checklist-based Web Security Assessment Agent
+
+* 주요정보통신기반시설 기술적 취약점 분석 평가 방법 기반
+* 웹 취약점 자동 점검 Agent 개발
+* 취약점 탐지 및 보고서 자동 생성 프로토타입 구현
+
+🔗 https://github.com/m0d0ri205/Pentest-Agent-for-KR
+
+---
+
+### Alpa-MCP
+
+Dependency-focused Web Security Automation Platform
+
+* KaliMCP 기반 npm 의존성 분석
+* One-day 취약점 자동 탐색
+* SBOM 및 외부 인텔리전스 연계
+
+🔗 https://github.com/m0d0ri205/a-mcp
+
+---
+
+### Stellar-Agent
+
+Hybrid DevSecOps Policy Audit Framework
+
+* MCP 기반 AI Agent
+* IaC 보안 분석
+* 자동 패치 가이드 제공
+* IaC → SBOM 생성
+
+🏆 2025 SW융합대학 학술제 대상
+
+📄 한국데이터사이언스학회 논문 제출
+
+---
+
+## 🏆 Awards
+
+* 2026 HCTF 우수상 (한국정보처리학회)
+* 2025 HolyShield Contest 동상
+* 2025 SW융합대학 학술제 대상
+* KISIA YISF 공로상 (2024)
+* KISIA YISF 공로상 (2025)
+* JA Korea 창업놀이터 우수상 (2021, 2022)
+
+---
+
+## 🎤 Activities
+
+### Speaker
+
+* 2026 Hanyang University ICEWALL
+
+  * IST Winter Training Instructor
+  * Vibe Hacking for WEB
+
+### Paper
+
+* Stellar-Agent
+
+  * 한국데이터사이언스학회 2025 동계 종합학술대회 논문집
+
+### CTF Author
+
+* SecurityFirst CTF (2023~2025)
+* YISF CTF (2024, 2025)
+* MSG CTF
+* SecurityFact Internal CTF
+
+### Community
+
+* TeamH4C : TOOR
+* SecurityFirst
+
+---
+
+## 📫 Contact
+
+* Email : [lcm000522@gmail.com](mailto:lcm000522@gmail.com)
 
 ---
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=120\&section=footer)
